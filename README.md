@@ -33,9 +33,7 @@ o Total loaned, total collected, overdue amount, avg repayment time
 • /Overdue route to list customers with overdue loans
 • [Bonus]: Auto-tag overdue loans based on current date
 
-2
 
-2
 
 Bonus Features
 • SMS/WhatsApp Reminder API integration (can be mocked)
